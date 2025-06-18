@@ -1,0 +1,1 @@
+# Voice Chat Application with Ollama Mistral 
